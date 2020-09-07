@@ -19,7 +19,7 @@ img {
 
 body{
   font-family: 'Vollkorn', Georgia, serif;
-  width: 100vw;
+  max-width: 100%;
 }
 
 /* GRID GERAL */
